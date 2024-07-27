@@ -1,0 +1,29 @@
+Students often find it difficult to do their labs because every lab needs the right platform to be installed and configured properly first. 
+So I am creating paltform specific machine images as per the Labs of Bachelor of Engineering courses in India. 
+I will regularly update this file.
+The images are stored in multiple .ova files. 
+These files first needs to be downloaded and extracted as necessary using 7-zip.
+Once downloaded, the student or teacher needs to use 7-zip to combine all the files in folder to create a single .ova file
+Once single .ova file is created, open Oracle Virtual box, click on menu File -> Import Appliance option and select your single .ova machine image file here
+Once the import process is completed, you should see the machine in your virtual box, ready to use
+The username and password for every machine is tcoestudent and tcoe2024#.
+
+1. Subject: Big data Analytics
+   Course #: CS702
+   Lab #3:  NoSQL database operations using HBase 
+   Machine Image: Hbase
+   Machine Image Folder link: https://drive.google.com/drive/folders/1-2wZH4cmx7UOTiBmEUg3evq4zQXtnGuw?usp=sharing 
+
+2: Subject: Big data Analytics
+   Course #: CS702
+   Lab #1: Hadoop HDFS operations
+   Machine Image: Hadoop
+   Machine Image Folder link: https://drive.google.com/drive/folders/1fJFgrcN4O0wKiOIF7fMq_v6-55Ew943T?usp=sharing
+
+3. Subject: Big data Analytics
+   Course #: CS702
+   Lab #2: Sqoop transfer betweeb Hadoop and relational tables
+   Machine Image: Sqoop 
+   Machine Image Folder link: To be shared soon 
+
+
