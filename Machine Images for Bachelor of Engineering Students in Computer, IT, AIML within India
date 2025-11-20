@@ -117,6 +117,9 @@ Lab #: Terraform
 Machine Image: Terraform + Docker + AWS CLI + Azure CLI + LocalStack
 Machine Image Folder: https://drive.google.com/drive/folders/1RJ85qbJs10WBM2WNiDDsJSEcu8vlW-7w?usp=sharing 
 
+Machine Image: contains additional docker and aws practice labs 
+Updated Machine Image Folder: https://drive.google.com/drive/folders/1l2qj9TQRLwyEKujLO7hbxv7y-rEaiIl5?usp=sharing
+
 19. Subject: Advanced DevOps
 Course #: Third Year Engineering 
 Lab #: Ansible
