@@ -114,11 +114,8 @@ Machine Image Folder: https://drive.google.com/drive/folders/1Sngw302GfVgU1MeLJm
 18. Subject: Advanced DevOps
 Course #: Third Year Engineering 
 Lab #: Terraform
-Machine Image: Terraform + Docker + AWS CLI + Azure CLI + LocalStack
-Machine Image Folder: https://drive.google.com/drive/folders/1RJ85qbJs10WBM2WNiDDsJSEcu8vlW-7w?usp=sharing 
-
 Machine Image: contains additional docker and aws practice labs 
-Updated Machine Image Folder: https://drive.google.com/drive/folders/1l2qj9TQRLwyEKujLO7hbxv7y-rEaiIl5?usp=sharing
+Machine Image Folder: https://drive.google.com/drive/folders/1l2qj9TQRLwyEKujLO7hbxv7y-rEaiIl5?usp=sharing
 
 19. Subject: Advanced DevOps
 Course #: Third Year Engineering 
@@ -133,6 +130,9 @@ Lab #: Prometheus and Grafana
 Machine Image: Prometheus + Grafana + Ansible + Terraform + Docker
 Machine Image folder (pending to be uploaded): 
 * do not use this link as yet
+
+unused links
+https://drive.google.com/drive/folders/1RJ85qbJs10WBM2WNiDDsJSEcu8vlW-7w?usp=sharing 
 https://drive.google.com/drive/folders/1HB2ol9piGTU7jWclATThERJJAxmvfI1l?usp=sharing 
 
 
